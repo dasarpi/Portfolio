@@ -12,10 +12,15 @@ He plans on using these insights to help him decide whether he should expand the
 2. [**Credit_Card_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project explores credit card transaction data using SQL to uncover meaningful insights into customer spending behavior, transaction trends, and potential fraud patterns. The goal is to transform raw transactional data into actionable insights that could support business decisions in finance, marketing, and risk management.
 
 🎯 Objectives
+
 ✅ Analyze customer spending patterns
+
 ✅ Identify high-value customers
+
 ✅ Detect potential fraudulent transactions
+
 ✅ Understand transaction trends over time
+
 ✅ Segment customers based on usage behavior
 
 4. [**Zepto_Inventory_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project "Zepto_Inventory_Analysis" goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
