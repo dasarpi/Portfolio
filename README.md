@@ -9,8 +9,16 @@ I am passionate about transforming data into actionable insights. I’m a data s
 1. [**Danny Diner**](https://github.com/dasarpi/Portfolio/blob/main/Danny_diner.sql): - This project "Danny_Diner" wants to his customer visiting pattern, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him to deliver a better and more personalised experience for his loyal customers.
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
-2. [**Credit_Card_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :-
-3. [**Zepto_Inventory_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project "Zepto_Inventory_Analysis" goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
+2. [**Credit_Card_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project explores credit card transaction data using SQL to uncover meaningful insights into customer spending behavior, transaction trends, and potential fraud patterns. The goal is to transform raw transactional data into actionable insights that could support business decisions in finance, marketing, and risk management.
+
+🎯 Objectives
+✅ Analyze customer spending patterns
+✅ Identify high-value customers
+✅ Detect potential fraudulent transactions
+✅ Understand transaction trends over time
+✅ Segment customers based on usage behavior
+
+4. [**Zepto_Inventory_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project "Zepto_Inventory_Analysis" goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
    
 ✅ Set up a messy, real-world e-commerce inventory database
 
