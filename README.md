@@ -11,6 +11,7 @@ He plans on using these insights to help him decide whether he should expand the
 
 2. [**Credit_Card_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :-
 3. [**Zepto_Inventory_Analysis**](https://github.com/dasarpi/Portfolio/blob/main/Credit_Card_Analysis.sql) :- This project "Zepto_Inventory_Analysis" goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
+   
 ✅ Set up a messy, real-world e-commerce inventory database
 
 ✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
